@@ -1,0 +1,18 @@
+$body-font:$Lato;
+
+img{
+    max-width: 100%;
+}
+body{
+    line-height: 2.6rem;
+    font-weight: 300;
+    font-family: $body-font;
+}
+
+h1, .h1{
+  line-height:6.8rem;
+}
+
+h2, .h2{
+  line-height:4.6rem;
+}
