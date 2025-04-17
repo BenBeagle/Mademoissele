@@ -12177,9 +12177,13 @@ header .navbar-nav .nav-item .nav-link {
   margin-bottom: 6.9rem;
 }
 
-.our-services .our-services-title {
-  margin-top: 97px;
-  margin-bottom: 74px;
+.services-section .services-section-title {
+  margin-top: 127px;
+  margin-bottom: 236px;
+}
+.services-section .services-item {
+  background-color: #ECD9D9;
+  padding: 150px 83px;
 }
 
 /*# sourceMappingURL=theme.css.map */
