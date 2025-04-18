@@ -12179,11 +12179,41 @@ header .navbar-nav .nav-item .nav-link {
 
 .services-section .services-section-title {
   margin-top: 127px;
-  margin-bottom: 236px;
+  margin-bottom: 74px;
 }
 .services-section .services-item {
   background-color: #ECD9D9;
-  padding: 150px 83px;
+  padding: 135px 83px;
+}
+
+.team-section {
+  padding: 16.2rem 8.7rem;
+}
+.team-section .team-section-title {
+  margin-bottom: 7.5rem;
+}
+.team-section .team-image {
+  margin-left: 9.4rem;
+}
+.team-section .team-image .team-title {
+  margin-bottom: 17px;
+}
+.team-section .team-image .team-title .team-data {
+  line-height: 28px;
+}
+
+footer .copyright {
+  color: #586C88;
+  font-size: 1.2rem;
+  line-height: 2.5rem;
+  font-weight: 500;
+}
+footer .social .social-icon {
+  color: #ECD9D9;
+  text-decoration: none;
+  margin-top: 10.4rem;
+  margin-left: 32px;
+  margin-bottom: 16px;
 }
 
 /*# sourceMappingURL=theme.css.map */

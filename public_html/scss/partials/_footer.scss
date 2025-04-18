@@ -1,0 +1,19 @@
+$copyright-color:#586C88;
+
+footer{
+    .copyright{
+        color: $copyright-color;
+        font-size: 1.2rem;
+        line-height: 2.5rem;
+        font-weight: 500;
+    }
+    .social{
+        .social-icon{
+            color: $rose;
+            text-decoration: none;
+            margin-top: 10.4rem;
+            margin-left: 32px;
+            margin-bottom: 16px;
+        }  
+    }
+}
