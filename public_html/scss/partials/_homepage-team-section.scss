@@ -1,22 +1,32 @@
 .team-section{
-    padding: 16.2rem 8.7rem;
-    border-left: solid;
 
-  
-    
+    .team-content{
+        padding: 87px 95px;
+        border:2px solid $rose;
+    }
+
+
+
+
+
     .team-section-title{
+        margin-top: 12.7rem;
         margin-bottom: 7.5rem;
-         
+        font-size: 3.6rem;
+
     }
     .team-image{
-        margin-left: 9.4rem;
+     
         .team-title{
             margin-bottom: 17px;
+            line-height: 4.6rem;
+
             .team-data{
-                line-height: 28px;
-               
+                line-height: 2.8rem;
+              
+
             }
-            
+
         }
     }
 }
